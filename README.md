@@ -23,3 +23,8 @@ Identify the lowest and highest open port on the system: <br/>
 <p align="center">
   Specify UDP port scans:  <br/>
 
+  ![Screenshot 2024-03-04 193441](https://github.com/wildhairmel/NMAP/assets/162362195/34868f3a-d2cb-4b66-bf1e-c664a5d53905)
+
+<p align="center">
+Pinpointing which software was being run on port 16080: <br/>
+
