@@ -28,3 +28,4 @@ Identify the lowest and highest open port on the system: <br/>
 <p align="center">
 Pinpointing which software was being run on port 16080: <br/>
 
+![Screenshot 2024-03-04 193731](https://github.com/wildhairmel/NMAP/assets/162362195/e2a86411-54b5-4d47-92c4-047c755a9d7b)
