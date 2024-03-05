@@ -17,3 +17,8 @@ This project involves using the nmap tool to scan the target server and identify
 
 <p align="center">
 Identify the lowest and highest open port on the system: <br/>
+
+![Screenshot 2024-03-04 193314](https://github.com/wildhairmel/NMAP/assets/162362195/1cfad015-2ffa-4640-9f35-258116593731)
+
+<p align="center">
+  Specify UDP port scans:  <br/>
